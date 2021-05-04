@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6LwBVRIUvoXaHCN8AOIQmA==
+SHA1-Digest: /8YPG2EC4n2rx2RJUH+qW0pFw7Y=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RulHzl37QBAaBiPqCDkSeg==
+SHA1-Digest: hwY1fxiPkYmKsbP//afPH9UTBMc=
+
+Name: chrome/speeddial.jar
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7idrLM6bnz+i7bktbEavvw==
+SHA1-Digest: LbZnlSUDtpeITbYEQDfNHN3/J1E=
+
+Name: components/nsISpeedDialCache.xpt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 87Wr+iIcrbl/l/IZ3ScL4g==
+SHA1-Digest: kjUACSzU6i6XanZofBHBevMUF+s=
+
+Name: components/speeddialcache.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mqrG9XACHacdq/zrpy7Mfw==
+SHA1-Digest: uiVO9HOxfeUyjMKbTEs9wn8JBbc=
+
+Name: defaults/preferences/speeddial.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WBZUJcFm0xb8V89JhApXwQ==
+SHA1-Digest: 4giHRxO2ufQ+Go1camHSdX3KPy4=
+
+Name: LICENSE
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3bsSl1bG42OcrjzvPcvl4g==
+SHA1-Digest: 2Vp34wUjYLTQef3o+jjOYJdjw/Y=
+
